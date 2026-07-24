@@ -1,0 +1,10 @@
+streamlit
+tensorflow==2.15.0
+h5py
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+joblib
+requests

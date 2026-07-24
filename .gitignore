@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+data/raw/weather_dataset.csv
+data/processed/
+graphs/
+
+
+
+.streamlit/
+
+.env
