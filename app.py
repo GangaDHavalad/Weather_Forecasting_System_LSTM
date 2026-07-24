@@ -45,7 +45,7 @@ if st.button("🔍 Get Weather Forecast"):
 
     current = get_current_weather(lat, lon)
 
-    prediction = predict_weather(selected)
+    prediction = predict_weather(selected, current)
 
     st.header("🌤 Current Weather")
 

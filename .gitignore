@@ -4,7 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 
-data/raw/weather_dataset.csv
 data/processed/
 graphs/
 
